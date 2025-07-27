@@ -1,0 +1,6 @@
+szam = 7
+
+if szam % 2 == 0:
+    print('Páros!')
+else:
+    print("Nem páros!")
